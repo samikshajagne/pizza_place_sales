@@ -21,4 +21,6 @@
 # Contributors
 # Samiksha Jagne
 # samikshajagne2@gmail.com
+# peerlist : https://peerlist.io/samiksha_jagne
+# linkedIn: https://www.linkedin.com/in/samiksha-jagne/
 # Feel free to contribute to the project by submitting pull requests or raising issues for any improvements or suggestions. Happy analyzing!
